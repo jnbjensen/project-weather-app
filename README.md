@@ -20,4 +20,4 @@ If we had had more time, we would have implemented more CSS effects that would t
 
 ## VIEW IT LIVE
 
-https://jnbjensen-weather-app.netlify.app/
+https://hannajacobnick-weather-app.netlify.app/
